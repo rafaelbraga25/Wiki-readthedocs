@@ -28,7 +28,7 @@ sphinx-quickstart
 
 In your Sphinx project’s `conf.py` file, add `sphinx_rtd_theme` to the list of enabled extensions and as the active theme:
 
-```
+```python
 extensions = [
     ...
     'sphinx_rtd_theme',
